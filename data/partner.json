@@ -1,0 +1,36 @@
+{
+    "partner": {
+        "data": [
+            {
+                "id": "3ou42380w98ewqeewewHH22",
+                "nome": "Prefeitura Municipal de Itinga",
+                "fantasia": "PM Itinga",
+                "representante": "João Bosco Cordeiro",
+                "email":"gabinete@itinga.mg.gov.br",
+                "cnpj": "31.353.553/0001-33",
+                "endereco": "Av. Prof. Maria antonia G. Reis, 36",
+                "Cidade:": "Itinga"
+            },
+            {
+                "id": "sdadsadst8ewqeewewHH22",
+                "nome": "Prefeitura Municipal de Conselheiro Penna",
+                "fantasia": "PM Cons. Penna",
+                "representante": "Nadia Filomena dutra Franca",
+                "email":"gabinete@conspena.mg.gov.br",
+                "cnpj": "31.352.023/0001-18",
+                "endereco": "Av. Prof. Maria antonia G. Reis, 36",
+                "Cidade:": "Cons. Penna"
+            },
+            {
+                "id": "59890edufeiuoiuoies",
+                "nome": "Prefeitura Municipal de Tarumirim",
+                "fantasia": "PM de Tarumrim",
+                "representante": "Marcilio de Paula Bonfim",
+                "email":"gabinete@tarumirim.mg.gov.br",
+                "cnpj": "19.198.600/0001-22",
+                "endereco": "Av. Plautino Soares, 80",
+                "Cidade:": "Tarumirim"
+            }
+        ]
+    }
+}

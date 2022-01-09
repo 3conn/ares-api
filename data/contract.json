@@ -1,0 +1,19 @@
+{
+    "contract": {
+        "data": [
+            {
+                "id":"wjwe979833439847w",
+                "data": "1997-07-16T19:20:30+01:00",
+                "valor_instalacao":980.00,
+                "valor_anual":12000.00,
+                "qtd_parcelas":1,
+                "qtd_projetos":100,
+                "qtd_divisao":5,
+                "qtd_membros":100,
+                "data_vencimento": "1997-07-16T19:20:30+01:00",
+                "contratante":"3ou42380w98ewqeewewHH22"
+            }
+
+        ]
+    }
+}
