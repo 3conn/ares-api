@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Plataforma de Gestão de projetos para corporações publicas e/ou privadas\r Escopo\r Atende os requisitos de projetos nos mais diferente níveis hierárquicos de uma empresa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3conn/ares-api.git"
+  },
+  "keywords": [],
+  "author": "João Paulo Santana Gusmão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3conn/ares-api/issues"
+  },
+  "homepage": "https://github.com/3conn/ares-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.6",
+    "consign": "^0.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
