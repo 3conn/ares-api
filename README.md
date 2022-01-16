@@ -23,6 +23,8 @@ Então somente o DIRECTOR ou EMPLOYEE desta divisão tem acesso a este serviço 
 O atendimento gera um formulario que deve ser assinado pelo(s) beneficiário(s) e postado durante este registro que poderá ser consultado por qualquer membro desta corporação.
 
 Ações:
+- Cadastrar Contrato - MAIN
+- Cadastrar/Atualizar Parceiro - MAIN, ADMIN
 - Cadastrar atendimentos - DIRETOR, FUNCIONARIO / (DIRECTOR, EMPLOYEE)
 - Cadastrar/Atualizar projetos - DIRETOR / (DIRECTOR)
 - Cadastrar/Atualizar metas - DIRETOR / (DIRECTOR)
