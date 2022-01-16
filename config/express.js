@@ -2,6 +2,9 @@ const express    = require('express');
 const bodyParser = require('body-parser');
 const config     = require('config');
 const consign = require('consign/lib/consign');
+const cors = require('cors');
+const env = require('dotenv');
+const db = require('./data-base');
 
 module.exports = () => {
   const app = express();
@@ -12,6 +15,7 @@ module.exports = () => {
   // MIDDLEWARES
   app.use(bodyParser.json());
   app.use(bodyParser.urlencoded({extended: true}))
+  app.use(cors());
 
   //ENDPOINTS
   consign({cw: 'api'})
